@@ -32,8 +32,8 @@ void check(string s)
 }
 int main()
 {
-    string Nahian;
-    cin>>Nahian;
-    check(Nahian);
+    string Nahian_Siddique;
+    cin>>Nahian_Siddique;
+    check(Nahian_Siddique);
 }
 
